@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FFAIM_PRO",
+  "orientation": "portrait",
+  "scope": "/FFAIM_PRO/",
+  "short_name": "FFAIM",
+  "start_url": "/FFAIM_PRO/",
+  "theme_color": "#ffffff",
+  "description": "FFAIM_PRO is a computer vision learning project.",
+  "lang": "ht"
+}
